@@ -1,0 +1,11 @@
+print("My Daily Routine")
+print("I wake up at 6:30 am")
+print("I have breakfast at 7:00 am")
+print("I go to school at 7:15 am")
+print("I come back frome school at 2:30 pm")
+print("I play with my friends at 3:30 pm")
+print("I have dinner at 6:00 to 6:30 pm")
+print("I studey for 3 hours from 7:00 pm to 10:00 pm")
+print("I go to bed at 10:00 pm")
+
+print("Total study housrs in a week are:", 3*7)
